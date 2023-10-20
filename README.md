@@ -1,5 +1,3 @@
-# aminulhuq.github.io
-
 ## Education
 - P.hD. in Computer Science & Engineering, University of Nevada Reno. (onGoing)
 - M.Sc. in Computer Science & Engineering, Tshinghua University, 2021.
