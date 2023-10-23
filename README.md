@@ -4,6 +4,7 @@
 - B.Sc. in Computer Science & Engineering, Rajshahi University of Engineering & Technology, 2017.
   
 ### Recent News
+- **October 2023. Corn Abnormality [Dataset](https://drive.google.com/drive/u/2/folders/17AE9_17kfkHCZCBABFgrZQjhxGSWiwVP) has been released**
 - **August 2023.  1 Paper accepted to the 18th ISVC**
 
 ### Publications
