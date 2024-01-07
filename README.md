@@ -27,6 +27,4 @@
 - Lecturer\
   Brac University, 2018-2022(on Leave)
 
-### Awards
-
 
