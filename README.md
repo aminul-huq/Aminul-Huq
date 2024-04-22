@@ -23,7 +23,8 @@
 - Graduate Research Assistant\
   Spring 23 - OnGoing
 - Graduate Teaching Assistant\
-  Image Processing, Fall 23.
+  Fall 23 - Ongoing
+  Course: Image Processing, Pattern Recognition
 - Lecturer\
   Brac University, 2018-2022(on Leave)
 
